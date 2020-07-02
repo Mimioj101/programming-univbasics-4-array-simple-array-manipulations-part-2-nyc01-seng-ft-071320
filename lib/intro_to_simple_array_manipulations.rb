@@ -13,3 +13,5 @@ end
 def using_flatten(nested_array)
   nested_array.flatten
 end 
+
+def using_delete(arr, string)
